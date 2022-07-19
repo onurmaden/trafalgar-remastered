@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trafalgar-remastered/static/css/main.6fc87726.css",
+    "main.js": "/trafalgar-remastered/static/js/main.6cf61388.js",
+    "static/media/Mulish-VariableFont_wght.ttf": "/trafalgar-remastered/static/media/Mulish-VariableFont_wght.bcafeb0fadf20710b1c6.ttf",
+    "static/media/illustration.png": "/trafalgar-remastered/static/media/illustration.ed30b04f597cc8c54c4b.png",
+    "static/media/trafalgar-illustration sec03 1.png": "/trafalgar-remastered/static/media/trafalgar-illustration sec03 1.736ca6fb5191d0b2012c.png",
+    "static/media/trafalgar-illustration sec02 1.png": "/trafalgar-remastered/static/media/trafalgar-illustration sec02 1.8fc05b42679547e75707.png",
+    "index.html": "/trafalgar-remastered/index.html",
+    "main.6fc87726.css.map": "/trafalgar-remastered/static/css/main.6fc87726.css.map",
+    "main.6cf61388.js.map": "/trafalgar-remastered/static/js/main.6cf61388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc87726.css",
+    "static/js/main.6cf61388.js"
+  ]
+}
