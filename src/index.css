@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css");
+@font-face {
+    font-family: 'Mulish';
+    font-weight: 1 999;
+    src: url("./fonts/Mulish-VariableFont_wght.ttf");
+    line-height:1 999;
+}
+
+.services{
+    @apply w-[350px] h-[350px] rounded-[20px] bg-white mt-[30px] relative drop-shadow-[10px_40px_50px_rgba(229,233,246,0.4)];
+}
