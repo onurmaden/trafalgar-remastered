@@ -1,4 +1,4 @@
-# [trafalgar-remastered](https://github.com/onurmaden/trafalgar-remastered)
+# [trafalgar-remastered](https://onurmaden.github.io/trafalgar-remastered/)
 
 
 # Getting Started with Create React App
